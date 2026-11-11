@@ -9,7 +9,7 @@ window.WEDDING_DATA = {
     groomFirst: "Vignesh Gowtham",
     monogram: "V · D",
     hashtag: "#VigneshWedsDivya",
-    dateBadge: "21 · 11 · 2026",
+    dateBadge: "20 · 11 · 2026",
     coupleImage: "./editable/assets/couple.png"
   },
 
@@ -28,7 +28,7 @@ window.WEDDING_DATA = {
   },
 
   countdown: {
-    targetISO: "2026-11-21T11:05:00+05:30",
+    targetISO: "2026-11-20T11:05:00+05:30",
     label: "Until the Sumuhurtham"
   },
 
@@ -37,10 +37,10 @@ window.WEDDING_DATA = {
       id: "muhurtham",
       label: "Wedding · Makara Lagnam",
       title: "Sumuhurtham",
-      dateLine: "Saturday, 21 November 2026",
+      dateLine: "Friday, 20 November 2026",
       timeLine: "11:05 AM",
-      startISO: "2026-11-21T11:05:00+05:30",
-      endISO: "2026-11-21T14:00:00+05:30",
+      startISO: "2026-11-20T11:05:00+05:30",
+      endISO: "2026-11-20T14:00:00+05:30",
       note: "\"Makara Lagnam\" · Lunch follows..."
     }
   ],
